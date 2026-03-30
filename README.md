@@ -1,74 +1,73 @@
 <p align="center">
-  <img src="https://i.imgur.com/8Qp5Yw0.png" alt="Yeferson Brito - Systems Engineer & Developer Banner" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Yeferson%20Brito&fontSize=45&fontColor=ffffff&animation=fadeIn" width="100%"/>
 </p>
 
 <h1 align="center">Yeferson Yemith Brito Iguaran</h1>
+
 <p align="center">
-  <strong>Estudiante de Ingeniería de Sistemas (8vo Semestre) | Universidad de la Guajira</strong><br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00F7FF&center=true&vCenter=true&lines=Ingeniero+de+Sistemas;Performance+Optimization;Full+Stack+Developer;AI+Enthusiast" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <strong>Ingeniero de Sistemas en Formación (8vo Semestre) | Universidad de la Guajira</strong><br>
   Desarrollador enfocado en rendimiento, escalabilidad y optimización crítica de sistemas.
 </p>
 
 ---
 
-### Resumen Profesional
+### 🚀 Resumen Profesional
 
-Desarrollador de software con sólida formación académica y experiencia práctica en optimización de plataformas web y despliegue de soluciones móviles. Me especializo en ingeniería de rendimiento, logrando reducciones críticas en tiempos de carga y consumo de ancho de banda. Poseo experiencia adicional en gestión y configuración de redes Mikrotik.
+Desarrollador de software con sólida formación académica y experiencia práctica. Me especializo en la optimización profunda de plataformas web y el despliegue de soluciones escalables, logrando resultados medibles en eficiencia y velocidad.
 
-* **Impacto Técnico:** Reduje el peso de recursos visuales en un 98% para ALCEBA WEB, optimizando la experiencia de usuario y costos operativos.
-* **Innovación:** Liderando el desarrollo de NEMA, una plataforma de entrenamiento deportivo asistida por IA.
-* **Investigación y Comunidad:** Miembro activo del semillero Alfacode y del grupo de desarrollo SSSY.
-* **Competencia Lingüística:** Inglés Técnico (Nivel profesional en lectura y escritura de documentación).
+* ⚡ **Performance:** Optimicé la carga de recursos de ALCEBA WEB en un **98%** (de ~6MB a ~100KB).
+* 🧠 **Innovación:** Desarrollo integral de arquitectura móvil con IA (NEMA).
+* 🌐 **Infraestructura:** Diseño y gestión de portales cautivos en redes Mikrotik.
+* 📚 **Comunidad:** Miembro del semillero Alfacode y del grupo de desarrollo SSSY.
 
 ---
 
-### Stack Tecnológico
+### 🛠️ Stack Tecnológico
 
 <div align="center">
 
-| Categoría | Tecnologías y Herramientas |
-| :--- | :--- |
-| **Lenguajes y Frameworks** | <img src="https://skillicons.dev/icons?i=python,java,php,js,ts,dart,html,css,django,fastapi,flask,nodejs,flutter" alt="Lenguajes y Frameworks" /> |
-| **Bases de Datos** | <img src="https://skillicons.dev/icons?i=mysql,postgres" alt="Bases de Datos" /> <br> *(Experiencia con Microsoft SQL Server, Oracle)* |
-| **Servicios e Integración** | <img src="https://skillicons.dev/icons?i=gcp,supabase" alt="Servicios Cloud" /> <br> *(Experiencia con Cloudinary, Render)* |
+**Lenguajes y Frameworks** <br>
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,php,dart,html,css,nodejs,django,fastapi,flask,flutter" alt="Tech Stack" />
+
+<br>**Bases de Datos y Cloud** <br>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,gcp" alt="DB and Cloud" />
+<br> *(Adicional: Microsoft SQL Server, Oracle, Cloudinary, Render)*
 
 </div>
 
 ---
 
-### Proyectos Destacados
+### 🧠 Proyectos Destacados
 
-| Proyecto | Rol e Impacto Técnico | Tecnologías Clave |
+| Proyecto | Rol e Impacto Técnico | Tecnologías |
 | :--- | :--- | :--- |
-| **[ALCEBA WEB](https://github.com/yeferson0brito/ALCEBA_WEB)** | **Ingeniero de Optimización:** Implementé estrategias de compresión dinámica, conversión a WebP y redimensionamiento de contenedores. Logré una reducción de carga de imágenes de ~6MB a ~100KB de promedio. | `Performance Engineering`, `Image Optimization` |
-| **[NEMA AI](https://github.com/yeferson0brito/NEMA)** | **Desarrollador Principal (Móvil):** Arquitectura y desarrollo de la app móvil para entrenamiento personalizado asistido por IA. *(En desarrollo)* | `Flutter`, `Dart`, `AI Integration` |
-| **[Hotspot / Portal Cautivo](https://github.com/yeferson0brito/SaloDeEventos)** | **Network Specialist:** Diseño y despliegue de portales cautivos personalizados para gestión de accesos y autenticación en redes Mikrotik. | `Networking`, `Mikrotik`, `UI/UX` |
+| **[ALCEBA WEB](https://github.com/yeferson0brito/ALCEBA_WEB)** | **Ingeniero de Optimización:** Implementé conversión a WebP, compresión dinámica y ajuste de contenedores. Reduje el peso visual en un 98%, mejorando el ancho de banda y tiempos de carga. | `Performance`, `Image Optimization` |
+| **[NEMA AI](https://github.com/yeferson0brito/NEMA)** | **Desarrollador Principal:** Arquitectura de app móvil para entrenamiento personalizado asistido por IA. *(En desarrollo)* | `Flutter`, `Dart`, `AI` |
+| **[Hotspot Mikrotik](https://github.com/yeferson0brito/SaloDeEventos)** | **Network Specialist:** Diseño y despliegue de portales cautivos para gestión de acceso y autenticación de usuarios. | `Networking`, `Mikrotik` |
 
 ---
 
-### Estadísticas de Actividad
+### 📊 Estadísticas y Actividad
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=yeferson0brito&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Estadísticas Generales de Yeferson" width="400px"/>
-      </td>
-      <td align="center">
-        <img src="https://streak-stats.demolab.com?user=yeferson0brito&theme=dark&hide_border=true" alt="GitHub Streak de Yeferson" width="400px"/>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeferson0brito&layout=compact&theme=dark&hide_border=true&langs_count=10" alt="Lenguajes más utilizados por Yeferson" width="500px"/>
-      </td>
-    </tr>
-  </table>
-</div>
+*(Nota: Si estos gráficos no cargan en algún momento, se debe a los límites de la API pública de GitHub. Refresca la página más tarde).*
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yeferson0brito&theme=tokyonight&hide_border=true" width="48%" alt="Racha de GitHub"/>
+</p>
 
 ---
 
-### Contacto y Enlaces Profesionales
+### 📫 Contacto
 
-* **LinkedIn:** [linkedin.com/in/tu-usuario](https://linkedin.com/in/tu-usuario)
-* **Email:** tu-correo@ejemplo.com
-* **Portafolio:** [Enlace si dispones de uno]
+<p align="center">
+  <a href="https://linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:yebrito.04@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
